@@ -31,7 +31,7 @@ public class Demo {
 		List<String> list = new ArrayList<String>();
 		list.add("Giridhar");
 		list.add("Reshma");
-		list.add("Gatik");
+		
 		list.add("Girishma");
 		list.add("MeghaGiri");
 		System.out.println("List of your name is : ");
